@@ -1,0 +1,68 @@
+{
+    "PORTAL": [
+        {
+            "insert": "PORTAL",
+            "cate": "common",
+            "article_url": "article_url",
+            "article_ttl": "article_ttl",
+            "article_text": "article_text",
+            "article_img_url": "article_img_url",
+            "article_img_alt": "article_img_alt",
+            "param": "article_img_param"
+        }
+    ],
+    "guam--article": [
+        {
+            "insert": "guam--article",
+            "cate": "記事",
+            "disp": "○",
+            "html": "×",
+            "no": 1,
+            "article_url": "https://hotels.his-j.com/ct/tripiteasy/post-23628/",
+            "article_ttl": "いつかまた海外へ…現地HIS社員がお伝えする「フィリピン（セブ島）の今」",
+            "article_text": "日々情報が変わる中ではありますが「HISからできる限り現地の今をお伝えしたい」という想いで、セブ島在住のHISスタッフに聞いてみました。",
+            "article_img_url": "https://hotels.his-j.com/ct/tripiteasy/wp-content/uploads/2021/06/guam_Maribago.jpg",
+            "article_img_alt": "セブ島（イメージ）",
+            "param": "guam_article01_common"
+        },
+        {
+            "insert": "guam--article",
+            "cate": "記事",
+            "disp": "○",
+            "html": "×",
+            "no": 2,
+            "article_url": "https://hotels.his-j.com/ct/tripiteasy/post-24797/",
+            "article_ttl": "春休みにおすすめ!海外旅行人気ランキングBEST10！",
+            "article_text": "春休みに行きたい旅行先は決まりましたか？\nHISがおすすめする海外旅行先を1位～10位までランキング形式で紹介します。",
+            "article_img_url": "https://www.his-j.com/kokunai/kanto/tour_info/okinawa/catchy/wp-content/uploads/2021/10/1%E3%82%BB%E3%83%96%E2%91%A0P191107-H-000847_ORIGINAL.jpg",
+            "article_img_alt": "セブ島（イメージ）",
+            "param": "guam_article02_common"
+        },
+        {
+            "insert": "guam--article",
+            "cate": "記事",
+            "disp": "○",
+            "html": "×",
+            "no": 3,
+            "article_url": "https://hotels.his-j.com/ct/tripiteasy/post-19937/",
+            "article_ttl": "保安検査場でもたつきたくない！手荷物検査でよくあるトラブルとスムーズに通過するポイント",
+            "article_text": "海外旅行で不安になる要素の1つは、空港での手続き。今回は、保安検査場の流れやよくあるトラブル、注意点をまとめました。",
+            "article_img_url": "https://hotels.his-j.com/ct/tripiteasy/wp-content/uploads/2020/03/AdobeStock_163426538.jpg",
+            "article_img_alt": "保安検査場（イメージ）",
+            "param": "guam_article03_common"
+        },
+        {
+            "insert": "guam--article",
+            "cate": "記事",
+            "disp": "○",
+            "html": "×",
+            "no": 4,
+            "article_url": "https://hotels.his-j.com/ct/tripiteasy/post-21031/",
+            "article_ttl": "国際線に乗るときは、何時間前に空港にいればいい？",
+            "article_text": "海外旅行にいく場合、空港にどのくらい前に到着すればいいのだろう？\n空港での手続きとその時間の目安を順に解説をしていきます。",
+            "article_img_url": "https://hotels.his-j.com/ct/tripiteasy/wp-content/uploads/2020/03/AdobeStock_212038213.jpeg",
+            "article_img_alt": "時間（イメージ）",
+            "param": "guam_article04_common"
+        }
+    ]
+}

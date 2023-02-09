@@ -1,0 +1,444 @@
+{
+    "PORTAL": [
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        },
+        {
+            "insert": "PORTAL",
+            "images_url": "大きさ注意"
+        }
+    ],
+    "hawaii--souvenir01": [
+        {
+            "insert": "hawaii--souvenir01",
+            "cate": "お土産",
+            "disp": "○",
+            "html": "×",
+            "no": 1,
+            "ttl": "【ハワイ】新作！ホノルルクッキーカンパニー　期間限定ホワイトチョコレートパンプキン （16枚入り）",
+            "point": "パンプキンのスパイスが効いたショートブレッドクッキーに、クリーミーなホワイトチョコレートがディップされたプレミアムクッキーは、秋の季節のおもてなしやギフトにも最適です。",
+            "price": "9,500円～",
+            "url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl80874/",
+            "images_url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl80874/",
+            "alt": "クッキー（イメージ）",
+            "param": "hawaiioth_rmi01_"
+        }
+    ],
+    "hawaii--souvenir02": [
+        {
+            "insert": "hawaii--souvenir02",
+            "cate": "お土産",
+            "disp": "○",
+            "html": "×",
+            "no": 2,
+            "ttl": "【ハワイ】ビッグアイランドキャンディーズ ショートブレッドクッキー詰め合わせ（32枚入り）",
+            "point": "ハワイ島ヒロの町で1977年に創業された、ローカルに愛される手作りショートブレッドクッキーです。",
+            "price": "2,500円～",
+            "url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/product-492/",
+            "images_url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/product-492/",
+            "alt": "ハワイアンクッキー（イメージ）",
+            "param": "hawaiioth_rmi02_"
+        }
+    ],
+    "hawaii--souvenir03": [
+        {
+            "insert": "hawaii--souvenir03",
+            "cate": "お土産",
+            "disp": "○",
+            "html": "×",
+            "no": 3,
+            "ttl": "【ハワイ】ホノルルクッキーカンパニーパンプキンクッキー＆クッキーコーナー40周年記念ミニバイツクッキーセット",
+            "point": "ホノルルクッキーカンパニーの期間限定パンプキンミニバイツクッキーとクッキーコーナーの40周年記念カップに入ったチョコレートチップミニバイツクッキーがセットに！",
+            "price": "3,500円～",
+            "url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl88209/",
+            "images_url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl88209/",
+            "alt": "ホノルルクッキー（イメージ）",
+            "param": "hawaiioth_rmi03_"
+        }
+    ],
+    "hawaii--souvenir04": [
+        {
+            "insert": "hawaii--souvenir04",
+            "cate": "お土産",
+            "disp": "○",
+            "html": "×",
+            "no": 4,
+            "ttl": "【Liko Lehua】フルーツバター（リリコイ） Mana UP",
+            "point": "リコ・レフア・リリコイ（パッションフルーツ）バターの原点となったフレーバーです。オハナの間では「リキッド・ゴールド」と呼ばれています。",
+            "price": "1,500円～",
+            "url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl-mu016/",
+            "images_url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl-mu016/",
+            "alt": "リリコイ（イメージ）",
+            "param": "hawaiioth_rmi04_"
+        }
+    ],
+    "guam--souvenir01": [
+        {
+            "insert": "guam--souvenir01",
+            "cate": "お土産",
+            "disp": "○",
+            "html": "×",
+            "no": 1,
+            "ttl": "【ハワイ】新作！ホノルルクッキーカンパニー　期間限定ホワイトチョコレートパンプキン （16枚入り）",
+            "point": "パンプキンのスパイスが効いたショートブレッドクッキーに、クリーミーなホワイトチョコレートがディップされたプレミアムクッキーは、秋の季節のおもてなしやギフトにも最適です。",
+            "price": "9,500円～",
+            "url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl80874/",
+            "images_url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/hnl80874/",
+            "alt": "クッキー（イメージ）",
+            "param": "guamoth_rmi01_"
+        }
+    ],
+    "guam--souvenir02": [
+        {
+            "insert": "guam--souvenir02",
+            "cate": "お土産",
+            "disp": "×",
+            "html": "×",
+            "no": 2,
+            "ttl": "【ハワイ】ビッグアイランドキャンディーズ ショートブレッドクッキー詰め合わせ（32枚入り）",
+            "point": "ハワイ島ヒロの町で1977年に創業された、ローカルに愛される手作りショートブレッドクッキーです。",
+            "price": "2,500円～",
+            "url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/product-492/",
+            "images_url": "https://www.sto-ory.com/world/hawaiiguamsaipan/hawaii/product-492/",
+            "alt": "ハワイアンクッキー（イメージ）",
+            "param": "guamoth_rmi02_"
+        }
+    ]
+}

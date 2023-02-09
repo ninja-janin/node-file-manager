@@ -1,0 +1,85 @@
+{
+    "PORTAL": [
+        {
+            "insert": "PORTAL",
+            "icon01": "meal",
+            "price": "※円～は自動吐き出し"
+        }
+    ],
+    "saipan--hotel01": [
+        {
+            "insert": "saipan--hotel01",
+            "cate": "海外ホテル",
+            "disp": "○",
+            "html": "×",
+            "no": 1,
+            "code": "CEB00092",
+            "ttl": "ジェイパーク アイランドリゾート＆ウォーターパーク セブ",
+            "tag": 28,
+            "point": "セブ島最大級の広さを誇るウォーターパークがあるリゾートホテル。",
+            "url_news": 31,
+            "meal": "meal",
+            "url": "https://hotels.his-j.com/HotelDetail/CEB00092.aspx",
+            "images_url": "https://hotels.his-j.com/image/hotel/CEB/CEB00092-31.jpg",
+            "alt": "ホテル外観（イメージ）",
+            "line": "line",
+            "youtube": "youtube",
+            "np": "np",
+            "param": "cebh_rmi01_"
+        }
+    ],
+    "saipan--hotel02": [
+        {
+            "insert": "saipan--hotel02",
+            "cate": "海外ホテル",
+            "disp": "○",
+            "html": "×",
+            "no": 2,
+            "code": "CEB00022",
+            "ttl": "プランテーション ベイ リゾートアンドスパ",
+            "tag": 21,
+            "point": "フィリピンで唯一、広大な敷地内に巨大海水ラグーンを持つデラックスリゾート。",
+            "url_news": 37,
+            "url": "https://hotels.his-j.com/HotelDetail/CEB00022.aspx",
+            "images_url": "https://hotels.his-j.com/image/hotel/CEB/CEB00022-04.jpg",
+            "alt": "プール（イメージ）",
+            "param": "cebh_rmi02_"
+        }
+    ],
+    "saipan--hotel03": [
+        {
+            "insert": "saipan--hotel03",
+            "cate": "海外ホテル",
+            "disp": "○",
+            "html": "×",
+            "no": 3,
+            "code": "CEB00024",
+            "ttl": "シャングリラ マクタン セブ",
+            "tag": 14,
+            "point": "セブ島を代表するデラックスリゾートホテルのひとつ。",
+            "url_news": 25,
+            "url": "https://hotels.his-j.com/HotelDetail/CEB00024.aspx",
+            "images_url": "https://hotels.his-j.com/image/hotel/CEB/CEB00024-20.jpg",
+            "alt": "プール（イメージ）",
+            "param": "cebh_rmi03_"
+        }
+    ],
+    "saipan--hotel04": [
+        {
+            "insert": "saipan--hotel04",
+            "cate": "海外ホテル",
+            "disp": "○",
+            "html": "×",
+            "no": 4,
+            "code": "CEB00018",
+            "ttl": "ブルーウォーター マリバゴ ビーチ リゾート",
+            "tag": 22,
+            "point": "かやぶき屋根が特徴で客室は木材を使って自然あふれるつくり｡プールを囲んで建ち並ぶ客室は明るい色の木材や貝細工を多用したフィリピンらしい内装。",
+            "url_news": 70,
+            "url": "https://hotels.his-j.com/HotelDetail/CEB00018.aspx",
+            "images_url": "https://hotels.his-j.com/image/hotel/CEB/CEB00018-20.jpg",
+            "alt": "フロント（イメージ）",
+            "param": "cebh_rmi04_"
+        }
+    ]
+}

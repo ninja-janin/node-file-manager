@@ -1,0 +1,25 @@
+<section id="airticket-and-hotel" class="js-check">
+  <div class="section__container airhotel">
+    <h2 class="heading--title"><span class="heading--text js-area"></span>おすすめ航空券＋ホテル</h2>
+    <div class="slideCardList__container">
+      <ul class="slideCardList--col4 kokunai-goto__card js-slideCardList-counter">
+        <li class="guam--chubu-ah01 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--chubu-ah02 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--chubu-ah03 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--chubu-ah04 slideCardList__item--col4" data-display="false"></li>
+      </ul>
+    </div>
+    <div class="align-center section-button pc-only">
+      <!-- var oversea_airticket_hotel_url_pc -->
+      <a href="https://www.his-j.com/kaigai/air-hotel/Default.aspx" class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket-hotel">
+        <span><span class="js-area"></span>の<br>航空券＋ホテルをもっと見る</span>
+      </a>
+    </div>
+    <div class="align-center sp-only">
+      <!-- var oversea_airticket_hotel_url_sp -->
+      <a href="https://www.his-j.com/kaigai/air-hotel/Default.aspx" class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket-hotel">
+        <span><span class="js-area"></span>の<br>航空券＋ホテルをもっと見る</span>
+      </a>
+    </div>
+  </div>
+</section>

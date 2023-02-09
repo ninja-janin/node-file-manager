@@ -1,0 +1,8 @@
+<section class="section-banner banner-2">
+  <div class="section__container">
+    <h2 class="heading--title">その他おすすめ旅行特集</h2>
+    <div id="banner_season" class="saipan--okinawa-banner02 grid-row grid-row__center">
+<!--バナー最大6個-->
+    </div>
+  </div>
+</section>
