@@ -49,8 +49,6 @@ fs.writeFile(`${getFilePath(area)}ssi/ah/${prefecture_name}.shtml`, ssi_template
 
 }
 
-
-
 area.forEach((area) => {
   let dataObj = JSON.parse(readFileSync(`./data-overseas/${area}.json`));
   dataObj.forEach((dataObj) => {
