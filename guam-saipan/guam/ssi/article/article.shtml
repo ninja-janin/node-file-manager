@@ -1,0 +1,15 @@
+<section id="recommended-articles" class="recommended-articles js-check">
+  <div class="section__container rec-articles">
+    <h2 class="heading--title"><span class="heading--text js-area">グアム</span>おすすめ記事</h2>
+    <!-- 4カラム -->
+    <div class="grid-row grid-row__center brazil--article">
+      <div class="grid-col4 guam--article01" data-display="false"></div>
+      <div class="grid-col4 guam--article02" data-display="false"></div>
+      <div class="grid-col4 guam--article03" data-display="false"></div>
+      <div class="grid-col4 guam--article04" data-display="false"></div>
+    </div>
+    <!-- var article_url_res -->
+    <div class="align-center"><a href="https://hotels.his-j.com/ct/tripiteasy/category/beach/guam/" class="button button--twoLine button--type-outline button--icon-arrowRight js-article">記事をもっと見る</a></div>
+  </div>
+</section>
+  

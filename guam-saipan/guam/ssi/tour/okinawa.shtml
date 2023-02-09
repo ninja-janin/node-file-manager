@@ -1,0 +1,26 @@
+<section id="tour" class="js-check">
+  <div class="section__container tour">
+    <h2 class="heading--title"><span class="heading--text js-area">グアム</span>おすすめツアー</h2>
+    <div class="slideCardList__container">
+      <ul class="slideCardList--col4 kokunai-goto__card js-slideCardList-counter">
+        <li class="guam--okinawa-tour01 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--okinawa-tour02 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--okinawa-tour03 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--okinawa-tour04 slideCardList__item--col4" data-display="false"></li>
+      </ul>
+    </div>
+    <div class="align-center section-button pc-only">
+    <!-- var oversea_tour_link_pc -->
+      <a href="https://tour.his-j.com/ct/search/06A_50/HGS/GUM/" class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-tourLink ">
+        <span><span class="js-area">ブラジル</span>の<br>ツアーをもっと見る</span>
+      </a>
+    </div>
+    <div class="align-center sp-only">
+      <!-- var oversea_tour_link_sp -->
+        <a href="https://tour.his-j.com/ct/sp/search/06A_50/HGS/GUM/" class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-tourLink ">
+          <span><span class="js-area">ブラジル</span>の<br>ツアーをもっと見る</span>
+        </a>
+      </div>
+  </div>
+</section>
+  

@@ -1,0 +1,28 @@
+<section id="hotel" class="js-check">
+	<div class="section__container">
+		<h2 class="heading--title"><span class="heading--text js-area">サイパン</span>おすすめのホテル</h2>
+		<div class="slideCardList__container">
+			<ul class="slideCardList--col4 kokunai-goto__card js-slideCardList-counter">
+				<li class="saipan--hotel01 slideCardList__item--col4" data-display="false"></li>
+				<li class="saipan--hotel02 slideCardList__item--col4" data-display="false"></li>
+				<li class="saipan--hotel03 slideCardList__item--col4" data-display="false"></li>
+				<li class="saipan--hotel04 slideCardList__item--col4" data-display="false"></li>
+			</ul>
+		</div>
+		<div class="align-center section-button pc-only">
+			<!-- var oversea_hotel_url_pc -->
+			<a href="https://hotels.his-j.com/HotelList/SPN/"
+				class="button button--twoLine button--size-small button--type-outline button--icon-arrowRight js-ovs-hotel">
+				<span><span class="js-area">ブラジル</span>の<br>ホテルをもっと見る</span>
+			</a>
+		</div>
+		<div class="align-center sp-only">
+			<!-- var oversea_hotel_url_sp -->
+			<a href="https://hotels.his-j.com/sp/HotelList/SPN/"
+				class="button button--twoLine button--size-small button--type-outline button--icon-arrowRight js-ovs-hotel">
+				<span><span class="js-area">ブラジル</span>の<br>ホテルをもっと見る</span>
+			</a>
+		</div>
+	</div>
+</section>
+  

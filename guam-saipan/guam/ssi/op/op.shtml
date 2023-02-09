@@ -1,0 +1,20 @@
+<section id="optional-tour" class="js-check">
+  <div class="section__container">
+    <h2 class="heading--title"><span class="heading--text js-area">グアム</span>おすすめの<br>オプショナルツアー</h2>
+    <div class="slideCardList__container">
+      <ul class="slideCardList--col4 kokunai-goto__card js-slideCardList-counter">
+        <li class="guam--op01 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--op02 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--op03 slideCardList__item--col4" data-display="false"></li>
+        <li class="guam--op04 slideCardList__item--col4" data-display="false"></li>
+      </ul>
+    </div>
+    <div class="align-center section-button">
+    <!-- var optional_tour_url_responsive -->
+      <a href="https://activities.his-j.com/NationTop/GUM/" class="button button--twoLine button--size-small button--type-outline button--icon-arrowRight js-optionTourLink">
+        <span><span class="js-area">ブラジル</span>の<br>オプショナルツアーをもっと見る</span>
+      </a>
+    </div>
+  </div>
+</section>
+  
