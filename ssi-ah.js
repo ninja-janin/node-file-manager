@@ -49,6 +49,49 @@ fs.writeFile(`${getFilePath(area)}ssi/ah/${prefecture_name}.shtml`, ssi_template
 
 }
 
+function writeAirticketAH(object, area, prefecture_name) {
+  let ssi_template = `<section id="airticket" class="js-check">
+  <div class="section__container airticket">
+     <h2 class="heading--title"><span class="heading--text js-area">${object.area.split('/')[0]}</span>おすすめ航空券</h2>
+     <div class="grid-col2__slider__wrap js-check">
+        <div class="grid-col2__slider__inner-wrap">
+           <ul class="grid-col2__wrap">
+              <li class="${object.area.split("/")[1]}--${prefecture_name}-air01 grid-col2__list" data-display="false"></li>
+              <li class="${object.area.split("/")[1]}--${prefecture_name}-air02 grid-col2__list" data-display="false"></li>
+              <li class="${object.area.split("/")[1]}--${prefecture_name}-air03 grid-col2__list" data-display="false"></li>
+              <li class="${object.area.split("/")[1]}--${prefecture_name}-air04 grid-col2__list" data-display="false"></li>
+           </ul>
+        </div>
+     </div>
+     <div class="slideCardList__container js-check">
+        <ul class="slideCardList--col4 kokunai-goto__card js-slideCardList-counter">
+           <li class="${object.area.split("/")[1]}--${prefecture_name}-air01 slideCardList__item--col4" data-display="false"></li>
+           <li class="${object.area.split("/")[1]}--${prefecture_name}-air02 slideCardList__item--col4" data-display="false"></li>
+           <li class="${object.area.split("/")[1]}--${prefecture_name}-air03 slideCardList__item--col4" data-display="false"></li>
+           <li class="${object.area.split("/")[1]}--${prefecture_name}-air04 slideCardList__item--col4" data-display="false"></li>
+        </ul>
+     </div>
+     <div class="align-center section-button pc-only">
+        <!-- var oversea_air_coupon_url_pc -->
+        <a href="${object.oversea_tour_link_pc}"
+           class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket">
+           <span><span class="js-area">ブラジル</span>の<br>航空券をもっと見る</span>
+        </a>
+     </div>
+     <div class="align-center sp-only">
+        <!-- var oversea_air_coupon_url_sp -->
+        <a href="${object.oversea_tour_link_sp}"
+           class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket">
+           <span><span class="js-area">ブラジル</span>の<br>航空券をもっと見る</span>
+        </a>
+     </div>
+  </div>
+</section>
+  `
+fs.writeFile(`${getFilePath(area)}ssi/air/${prefecture_name}.shtml`, ssi_template, function (err) {}); 
+
+}
+
 area.forEach((area) => {
   let dataObj = JSON.parse(readFileSync(`./data-overseas/${area}.json`));
   dataObj.forEach((dataObj) => {
@@ -56,6 +99,7 @@ area.forEach((area) => {
       let param = dataObj.param.split("=")[1];
       if (prefecture.hasOwnProperty(param)) {
         displayDownloadableFiles(dataObj, area, prefecture[param])
+        writeAirticketAH(dataObj, area, prefecture[param])
       }
     }
   });

@@ -1,0 +1,38 @@
+<section id="airticket" class="js-check">
+  <div class="section__container airticket">
+     <h2 class="heading--title"><span class="heading--text js-area">グアム</span>おすすめ航空券</h2>
+     <div class="grid-col2__slider__wrap js-check">
+        <div class="grid-col2__slider__inner-wrap">
+           <ul class="grid-col2__wrap">
+              <li class="guam--okinawa-air01 grid-col2__list" data-display="false"></li>
+              <li class="guam--okinawa-air02 grid-col2__list" data-display="false"></li>
+              <li class="guam--okinawa-air03 grid-col2__list" data-display="false"></li>
+              <li class="guam--okinawa-air04 grid-col2__list" data-display="false"></li>
+           </ul>
+        </div>
+     </div>
+     <div class="slideCardList__container js-check">
+        <ul class="slideCardList--col4 kokunai-goto__card js-slideCardList-counter">
+           <li class="guam--okinawa-air01 slideCardList__item--col4" data-display="false"></li>
+           <li class="guam--okinawa-air02 slideCardList__item--col4" data-display="false"></li>
+           <li class="guam--okinawa-air03 slideCardList__item--col4" data-display="false"></li>
+           <li class="guam--okinawa-air04 slideCardList__item--col4" data-display="false"></li>
+        </ul>
+     </div>
+     <div class="align-center section-button pc-only">
+        <!-- var oversea_air_coupon_url_pc -->
+        <a href="https://tour.his-j.com/ct/search/06A_50/HGS/GUM/"
+           class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket">
+           <span><span class="js-area">ブラジル</span>の<br>航空券をもっと見る</span>
+        </a>
+     </div>
+     <div class="align-center sp-only">
+        <!-- var oversea_air_coupon_url_sp -->
+        <a href="https://tour.his-j.com/ct/sp/search/06A_50/HGS/GUM/"
+           class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket">
+           <span><span class="js-area">ブラジル</span>の<br>航空券をもっと見る</span>
+        </a>
+     </div>
+  </div>
+</section>
+  
