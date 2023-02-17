@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>hawaii - ハワイ/hawaii</title>
+  </head>
+  <body>
+    <div class="align-center section-button pc-only">
+      <!-- var oversea_airticket_hotel_url_pc -->
+      <a href="https://tour.his-j.com/ct/search/02A_10/HGS/HWI/" class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket-hotel">
+        <span><span class="js-area"></span>の<br>航空券＋ホテルをもっと見る</span>
+      </a>
+    </div>
+    <div class="align-center sp-only">
+      <!-- var oversea_airticket_hotel_url_sp -->
+      <a href="https://tour.his-j.com/ct/sp/search/02A_10/HGS/HWI/" class="button button--twoLine button--type-outline button--icon-arrowRight js-ovs-airticket-hotel">
+        <span><span class="js-area"></span>の<br>航空券＋ホテルをもっと見る</span>
+      </a>
+    </div>
+  </body>
+  </html>
+  
