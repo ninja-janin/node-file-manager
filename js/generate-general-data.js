@@ -5,8 +5,8 @@ let area = ["america", "australia", "austria", "bali", "bangladesh", "beijing", 
 // let area = ["america"]
 
 function createAreaData(data, areaName) {
-    console.log(`js/general/data/${areaName}.json`)
-    fs.writeFile(`js/general/data/${areaName}.json`, JSON.stringify(data, null, 4), function (err) {}); 
+    console.log(`json/general-data/${areaName}.json`)
+    fs.writeFile(`json/general-data/${areaName}.json`, JSON.stringify(data, null, 4), function (err) {}); 
 }
 
 area.forEach((areaName) => {
