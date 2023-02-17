@@ -16,7 +16,7 @@ function getFilePath(area) {
 }
 
 
-function updateIndexHtml(object, area, counter) {
+function updateIndexHtml(object, area) {
   let index_template = `<!DOCTYPE html>
   <html lang="en">
   <head>
@@ -48,10 +48,11 @@ function updateIndexHtml(object, area, counter) {
     // console.log(`Directory does not exist. : ${getFilePath(area)}`)
   }
 }
+
 let counter = 0;
 area.forEach((areaInner, array) => {
   let dataObj = JSON.parse(readFileSync(`./data-overseas/${areaInner}.json`));
-  updateIndexHtml(dataObj[0], areaInner, counter);
+  updateIndexHtml(dataObj[0], areaInner);
   counter++;
   if (counter === area.length) {
     console.log("Updated Area:" , updatedArea, updatedArea.length);
