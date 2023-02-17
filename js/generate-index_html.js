@@ -51,7 +51,7 @@ function updateIndexHtml(object, area) {
 
 let counter = 0;
 area.forEach((areaInner, array) => {
-  let dataObj = JSON.parse(readFileSync(`./json/general-data/${areaInner}.json`));
+  let dataObj = JSON.parse(readFileSync(`./general-data/${areaInner}.json`));
   updateIndexHtml(dataObj[0], areaInner);
   counter++;
   if (counter === area.length) {
