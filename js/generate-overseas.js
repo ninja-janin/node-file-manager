@@ -9,7 +9,7 @@ function createAreaData(data, areaName) {
 }
 
 area.forEach((areaName) => {
-    let resData = JSON.parse(readFileSync('./paramsData.json', 'utf8'));
+    let resData = JSON.parse(readFileSync('./oversea-data-info-3.json', 'utf8'));
     let finalJsonFile = resData.filter(function (resData) {
         let area = resData.area.split('/')[1];
         return area === areaName;
