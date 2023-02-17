@@ -5,6 +5,7 @@ let area_path = [ "hawaii/", "guam-saipan/saipan/", "guam-saipan/guam/", "europe
 let area = ["america", "australia", "austria", "bali", "bangladesh", "beijing", "belgium", "boston", "brazil", "brisbane", "cairns", "cambodia", "canada", "cebu", "china", "croatia", "cuba", "czech", "dubai", "egypt", "fiji", "florence", "france", "germany", "goldcoast", "greece", "guam", "hainan", "hawaii", "hongkong", "hungary", "india", "indonesia", "italy", "jordan", "kenya", "korea", "laos", "lasvegas", "losangeles", "macau", "malaysia", "maldives", "malta", "mauritius", "mexico", "milano", "mongolia", "morocco", "myanmar", "nepal", "netherlands", "newcaledonia", "newyork", "newzealand", "orlando", "palau", "peru", "philippines", "phuket", "poland", "portugal", "rome", "russia", "saipan", "sandiego", "sanfrancisco", "seattle", "seychelles", "shanghai", "singapore", "southafrica", "spain", "srilanka", "switzerland", "sydney", "tahiti", "taiwan", "thailand", "toronto", "turkey", "uae", "united-kingdom", "vancouver", "venice", "vietnam"]
 let prefecture = { 5 : "chubu", 7 : "chugoku", 2 : "hokkaido", 6 : "kansai", 1 : "kanto", 8 : "kyushu", 9 : "okinawa", 3 : "tohoku", }
 let updatedArea = [];
+let missingArea = []; 
 
 function getFilePath(area) {
   return filePath = area_path.find(element => element.split("/").filter(element => element).pop() == area);
@@ -39,7 +40,8 @@ function updateIndexHtml(object, area, counter) {
     fs.writeFile(`${getFilePath(area)}index.shtml`, index_template, function (err) {}); 
     updatedArea.push(area);
   } else {
-   // console.log("Directory does not exist.")
+    missingArea.push(getFilePath(area));
+    console.log(`Directory does not exist. : ${getFilePath(area)}`)
   }
 }
 let counter = 0;
@@ -47,6 +49,8 @@ area.forEach((areaInner, array) => {
   let dataObj = JSON.parse(readFileSync(`./data-overseas/${areaInner}.json`));
   updateIndexHtml(dataObj[0], areaInner, counter);
   counter++;
-  if (counter === area.length) 
-  console.log(updatedArea, updatedArea.length)
+  if (counter === area.length) {
+    console.log("Updated Area:" , updatedArea, updatedArea.length)
+    console.log("UNSUCCESSFUL :" , missingArea.length)
+  } 
 });
