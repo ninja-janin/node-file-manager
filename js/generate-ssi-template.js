@@ -227,7 +227,7 @@ function writeSouvenirSSI(object, area) {
 }
 
 area.forEach((area) => {
-  let dataObj = JSON.parse(readFileSync(`./data-overseas-ssi-data/${area}.json`));
+  let dataObj = JSON.parse(readFileSync(`.general/data/${area}.json`));
 
   writeArticleSSI(dataObj[0], area)
   writeHotelSSI(dataObj[0], area)
